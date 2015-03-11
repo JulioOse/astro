@@ -1,0 +1,65 @@
+body {
+	background-color: #474747;
+}
+.header  {
+	background-color: #474747;
+	color: white;
+	text-align: center;
+}
+.header h1 {
+	display: inline;
+	margin-right: 200px;
+}
+.header h5 {
+	display: inline;
+	margin-right:-200px;
+}
+.jumbotron {
+	background-image: url('http://s3.amazonaws.com/codecademy-content/courses/ltp/img/sky.gif');
+}
+.jumbotron h2 {
+	color: white;
+	margin-left: 10px;
+}
+.forces .thumbnail {
+	background-color: #474747;
+	border-color: #474747;
+}
+.forces {
+	padding-bottom: 50px;
+	border-bottom: 1px solid #747469;
+	text-align: center;
+}
+.forces img {
+	width: 300px;
+	height: 200px;
+}
+.types {
+	margin-left: 30px;
+	margin-bottom: 100px;
+}
+h4, h3, p {
+	color: white;
+}
+.summary {
+	margin-left: 15px;
+	margin-bottom: 30px;
+}
+.summary h3 {
+	text-align: center;
+	color: white;
+	margin-bottom: 20px;
+	font-size: 25px;
+}
+.phrase {
+	color: #CCCCCC;
+}
+.summary p {
+	font-size: 18px;
+}
+.subhead {
+	background-color:#4D4D4D;
+	border-bottom: 1px solid #171717;
+	border-top: 1px solid #171717;
+	margin-bottom: 70px;
+}
